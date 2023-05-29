@@ -276,6 +276,7 @@ flex-direction: column;
 .contact-form textarea {
   margin-bottom: 10px;
   padding: 10px;
+  border-radius: 5px;
 }
 
 .contact-form button {
@@ -284,6 +285,7 @@ flex-direction: column;
   color: #fff;
   border: none;
   cursor: pointer;
+  border-radius: 5px;
 }
 
 .contact-form button:hover {
